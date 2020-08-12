@@ -1,0 +1,11 @@
+D:\ISI\2020\.NET\Unidades\Unidad 3\Login\Login\Login\bin\Debug\Login.exe.config
+D:\ISI\2020\.NET\Unidades\Unidad 3\Login\Login\Login\bin\Debug\Login.exe
+D:\ISI\2020\.NET\Unidades\Unidad 3\Login\Login\Login\bin\Debug\Login.pdb
+D:\ISI\2020\.NET\Unidades\Unidad 3\Login\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+D:\ISI\2020\.NET\Unidades\Unidad 3\Login\Login\Login\obj\Debug\Login.formLogin.resources
+D:\ISI\2020\.NET\Unidades\Unidad 3\Login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\ISI\2020\.NET\Unidades\Unidad 3\Login\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\ISI\2020\.NET\Unidades\Unidad 3\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\ISI\2020\.NET\Unidades\Unidad 3\Login\Login\Login\obj\Debug\Login.exe
+D:\ISI\2020\.NET\Unidades\Unidad 3\Login\Login\Login\obj\Debug\Login.pdb
+D:\ISI\2020\.NET\Unidades\Unidad 3\Login\Login\Login\obj\Debug\Login.formMain.resources

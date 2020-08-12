@@ -1,0 +1,10 @@
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\LabClases1\LabClases2\obj\Debug\LabClases2.csprojAssemblyReference.cache
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\LabClases1\LabClases2\obj\Debug\LabClases2.csproj.CoreCompileInputs.cache
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\LabClases1\LabClases2\bin\Debug\LabClases2.exe.config
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\LabClases1\LabClases2\bin\Debug\LabClases2.exe
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\LabClases1\LabClases2\bin\Debug\LabClases2.pdb
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\LabClases1\LabClases2\bin\Debug\Clases.dll
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\LabClases1\LabClases2\bin\Debug\Clases.pdb
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\LabClases1\LabClases2\obj\Debug\LabClases2.csproj.CopyComplete
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\LabClases1\LabClases2\obj\Debug\LabClases2.exe
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\LabClases1\LabClases2\obj\Debug\LabClases2.pdb

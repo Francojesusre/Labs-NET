@@ -1,0 +1,9 @@
+D:\ISI\2020\.NET\Unidades\Unidad 4\Lab02\Lab02\bin\Debug\agenda.txt
+D:\ISI\2020\.NET\Unidades\Unidad 4\Lab02\Lab02\bin\Debug\agenda.xml
+D:\ISI\2020\.NET\Unidades\Unidad 4\Lab02\Lab02\bin\Debug\Lab02.exe.config
+D:\ISI\2020\.NET\Unidades\Unidad 4\Lab02\Lab02\bin\Debug\Lab02.exe
+D:\ISI\2020\.NET\Unidades\Unidad 4\Lab02\Lab02\bin\Debug\Lab02.pdb
+D:\ISI\2020\.NET\Unidades\Unidad 4\Lab02\Lab02\obj\Debug\Lab02.csprojAssemblyReference.cache
+D:\ISI\2020\.NET\Unidades\Unidad 4\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+D:\ISI\2020\.NET\Unidades\Unidad 4\Lab02\Lab02\obj\Debug\Lab02.exe
+D:\ISI\2020\.NET\Unidades\Unidad 4\Lab02\Lab02\obj\Debug\Lab02.pdb

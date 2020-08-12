@@ -1,0 +1,13 @@
+D:\ISI\2020\.NET\Unidades\Unidad 3\Grilla\LabGrilla\LabGrilla\bin\Debug\LabGrilla.exe.config
+D:\ISI\2020\.NET\Unidades\Unidad 3\Grilla\LabGrilla\LabGrilla\bin\Debug\LabGrilla.exe
+D:\ISI\2020\.NET\Unidades\Unidad 3\Grilla\LabGrilla\LabGrilla\bin\Debug\LabGrilla.pdb
+D:\ISI\2020\.NET\Unidades\Unidad 3\Grilla\LabGrilla\LabGrilla\bin\Debug\Negocio.dll
+D:\ISI\2020\.NET\Unidades\Unidad 3\Grilla\LabGrilla\LabGrilla\bin\Debug\Negocio.pdb
+D:\ISI\2020\.NET\Unidades\Unidad 3\Grilla\LabGrilla\LabGrilla\obj\Debug\LabGrilla.csprojAssemblyReference.cache
+D:\ISI\2020\.NET\Unidades\Unidad 3\Grilla\LabGrilla\LabGrilla\obj\Debug\LabGrilla.formListaUsuarios.resources
+D:\ISI\2020\.NET\Unidades\Unidad 3\Grilla\LabGrilla\LabGrilla\obj\Debug\LabGrilla.Properties.Resources.resources
+D:\ISI\2020\.NET\Unidades\Unidad 3\Grilla\LabGrilla\LabGrilla\obj\Debug\LabGrilla.csproj.GenerateResource.cache
+D:\ISI\2020\.NET\Unidades\Unidad 3\Grilla\LabGrilla\LabGrilla\obj\Debug\LabGrilla.csproj.CoreCompileInputs.cache
+D:\ISI\2020\.NET\Unidades\Unidad 3\Grilla\LabGrilla\LabGrilla\obj\Debug\LabGrilla.csproj.CopyComplete
+D:\ISI\2020\.NET\Unidades\Unidad 3\Grilla\LabGrilla\LabGrilla\obj\Debug\LabGrilla.exe
+D:\ISI\2020\.NET\Unidades\Unidad 3\Grilla\LabGrilla\LabGrilla\obj\Debug\LabGrilla.pdb

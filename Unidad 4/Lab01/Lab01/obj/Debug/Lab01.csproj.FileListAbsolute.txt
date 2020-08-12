@@ -1,0 +1,8 @@
+D:\ISI\2020\.NET\Unidades\Unidad 4\Lab01\Lab01\bin\Debug\Agenda.txt
+D:\ISI\2020\.NET\Unidades\Unidad 4\Lab01\Lab01\bin\Debug\Lab01.exe.config
+D:\ISI\2020\.NET\Unidades\Unidad 4\Lab01\Lab01\bin\Debug\Lab01.exe
+D:\ISI\2020\.NET\Unidades\Unidad 4\Lab01\Lab01\bin\Debug\Lab01.pdb
+D:\ISI\2020\.NET\Unidades\Unidad 4\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+D:\ISI\2020\.NET\Unidades\Unidad 4\Lab01\Lab01\obj\Debug\Lab01.exe
+D:\ISI\2020\.NET\Unidades\Unidad 4\Lab01\Lab01\obj\Debug\Lab01.pdb
+D:\ISI\2020\.NET\Unidades\Unidad 4\Lab01\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache

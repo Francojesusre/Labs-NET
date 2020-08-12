@@ -1,0 +1,6 @@
+D:\ISI\2020\.NET\unidad 2\Lab1\Util\bin\Debug\Util.dll
+D:\ISI\2020\.NET\unidad 2\Lab1\Util\bin\Debug\Util.pdb
+D:\ISI\2020\.NET\unidad 2\Lab1\Util\obj\Debug\Util.csprojAssemblyReference.cache
+D:\ISI\2020\.NET\unidad 2\Lab1\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+D:\ISI\2020\.NET\unidad 2\Lab1\Util\obj\Debug\Util.dll
+D:\ISI\2020\.NET\unidad 2\Lab1\Util\obj\Debug\Util.pdb

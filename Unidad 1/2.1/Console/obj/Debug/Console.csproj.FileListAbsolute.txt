@@ -1,0 +1,10 @@
+D:\ISI\2020\.NET\unidad 2\Lab1\Console\bin\Debug\Console.exe.config
+D:\ISI\2020\.NET\unidad 2\Lab1\Console\bin\Debug\Console.exe
+D:\ISI\2020\.NET\unidad 2\Lab1\Console\bin\Debug\Console.pdb
+D:\ISI\2020\.NET\unidad 2\Lab1\Console\bin\Debug\Util.dll
+D:\ISI\2020\.NET\unidad 2\Lab1\Console\bin\Debug\Util.pdb
+D:\ISI\2020\.NET\unidad 2\Lab1\Console\obj\Debug\Console.csprojAssemblyReference.cache
+D:\ISI\2020\.NET\unidad 2\Lab1\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+D:\ISI\2020\.NET\unidad 2\Lab1\Console\obj\Debug\Console.csproj.CopyComplete
+D:\ISI\2020\.NET\unidad 2\Lab1\Console\obj\Debug\Console.exe
+D:\ISI\2020\.NET\unidad 2\Lab1\Console\obj\Debug\Console.pdb

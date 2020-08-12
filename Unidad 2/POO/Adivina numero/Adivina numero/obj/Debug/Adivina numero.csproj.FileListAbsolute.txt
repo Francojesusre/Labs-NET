@@ -1,0 +1,7 @@
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\Adivina numero\Adivina numero\obj\Debug\Adivina numero.csprojAssemblyReference.cache
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\Adivina numero\Adivina numero\obj\Debug\Adivina numero.csproj.CoreCompileInputs.cache
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\Adivina numero\Adivina numero\bin\Debug\Adivina numero.exe.config
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\Adivina numero\Adivina numero\bin\Debug\Adivina numero.exe
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\Adivina numero\Adivina numero\bin\Debug\Adivina numero.pdb
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\Adivina numero\Adivina numero\obj\Debug\Adivina numero.exe
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\Adivina numero\Adivina numero\obj\Debug\Adivina numero.pdb

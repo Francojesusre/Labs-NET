@@ -1,0 +1,9 @@
+D:\ISI\2020\.NET\unidad 2\Lab1\Windows\bin\Debug\Windows.dll
+D:\ISI\2020\.NET\unidad 2\Lab1\Windows\bin\Debug\Windows.pdb
+D:\ISI\2020\.NET\unidad 2\Lab1\Windows\bin\Debug\Util.dll
+D:\ISI\2020\.NET\unidad 2\Lab1\Windows\bin\Debug\Util.pdb
+D:\ISI\2020\.NET\unidad 2\Lab1\Windows\obj\Debug\Windows.csprojAssemblyReference.cache
+D:\ISI\2020\.NET\unidad 2\Lab1\Windows\obj\Debug\Windows.csproj.CoreCompileInputs.cache
+D:\ISI\2020\.NET\unidad 2\Lab1\Windows\obj\Debug\Windows.csproj.CopyComplete
+D:\ISI\2020\.NET\unidad 2\Lab1\Windows\obj\Debug\Windows.dll
+D:\ISI\2020\.NET\unidad 2\Lab1\Windows\obj\Debug\Windows.pdb

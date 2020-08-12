@@ -1,0 +1,6 @@
+D:\ISI\2020\.NET\Unidades\Unidad 3\Grilla\LabGrilla\Negocio\bin\Debug\Negocio.dll
+D:\ISI\2020\.NET\Unidades\Unidad 3\Grilla\LabGrilla\Negocio\bin\Debug\Negocio.pdb
+D:\ISI\2020\.NET\Unidades\Unidad 3\Grilla\LabGrilla\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\ISI\2020\.NET\Unidades\Unidad 3\Grilla\LabGrilla\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\ISI\2020\.NET\Unidades\Unidad 3\Grilla\LabGrilla\Negocio\obj\Debug\Negocio.dll
+D:\ISI\2020\.NET\Unidades\Unidad 3\Grilla\LabGrilla\Negocio\obj\Debug\Negocio.pdb

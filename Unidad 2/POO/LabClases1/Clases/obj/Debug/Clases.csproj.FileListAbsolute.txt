@@ -1,0 +1,6 @@
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\LabClases1\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\LabClases1\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\LabClases1\Clases\bin\Debug\Clases.dll
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\LabClases1\Clases\bin\Debug\Clases.pdb
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\LabClases1\Clases\obj\Debug\Clases.dll
+D:\ISI\2020\.NET\Unidades\Unidad 2\POO\LabClases1\Clases\obj\Debug\Clases.pdb

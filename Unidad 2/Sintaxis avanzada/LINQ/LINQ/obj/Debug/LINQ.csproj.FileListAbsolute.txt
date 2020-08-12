@@ -1,0 +1,7 @@
+D:\ISI\2020\.NET\Unidades\Unidad 2\Sintaxis avanzada\LINQ\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+D:\ISI\2020\.NET\Unidades\Unidad 2\Sintaxis avanzada\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+D:\ISI\2020\.NET\Unidades\Unidad 2\Sintaxis avanzada\LINQ\LINQ\bin\Debug\LINQ.exe.config
+D:\ISI\2020\.NET\Unidades\Unidad 2\Sintaxis avanzada\LINQ\LINQ\bin\Debug\LINQ.exe
+D:\ISI\2020\.NET\Unidades\Unidad 2\Sintaxis avanzada\LINQ\LINQ\bin\Debug\LINQ.pdb
+D:\ISI\2020\.NET\Unidades\Unidad 2\Sintaxis avanzada\LINQ\LINQ\obj\Debug\LINQ.exe
+D:\ISI\2020\.NET\Unidades\Unidad 2\Sintaxis avanzada\LINQ\LINQ\obj\Debug\LINQ.pdb
