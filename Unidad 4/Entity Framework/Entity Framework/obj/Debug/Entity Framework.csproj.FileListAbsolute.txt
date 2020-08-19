@@ -1,0 +1,7 @@
+D:\ISI\2020\.NET\Labs\Unidad 4\Entity Framework\Entity Framework\bin\Debug\Entity Framework.exe.config
+D:\ISI\2020\.NET\Labs\Unidad 4\Entity Framework\Entity Framework\bin\Debug\Entity Framework.exe
+D:\ISI\2020\.NET\Labs\Unidad 4\Entity Framework\Entity Framework\bin\Debug\Entity Framework.pdb
+D:\ISI\2020\.NET\Labs\Unidad 4\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csprojAssemblyReference.cache
+D:\ISI\2020\.NET\Labs\Unidad 4\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.CoreCompileInputs.cache
+D:\ISI\2020\.NET\Labs\Unidad 4\Entity Framework\Entity Framework\obj\Debug\Entity Framework.exe
+D:\ISI\2020\.NET\Labs\Unidad 4\Entity Framework\Entity Framework\obj\Debug\Entity Framework.pdb

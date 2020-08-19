@@ -18,8 +18,8 @@ namespace Ejercicio4
             dtEmpresa.Columns.Add(CustomerID);
             dtEmpresa.Columns.Add(CompanyName);
 
-            SqlConnection myconn = new SqlConnection();
-            myconn.ConnectionString = "Data Source=LOCALHOST;Initial Catalog=Northwind;User ID=sa;Password=123";
+            SqlConnection myconn = new SqlConnection("Data Source=LOCALHOST;Initial Catalog=Northwind;User ID=sa;Password=123");
+            //myconn.ConnectionString = "Data Source=LOCALHOST;Initial Catalog=Northwind;User ID=sa;Password=123";
 
             SqlCommand mycomando = new SqlCommand();
             mycomando.CommandText = "SELECT CustomerID, CompanyName FROM Customers";
